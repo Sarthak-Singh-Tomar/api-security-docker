@@ -1,5 +1,5 @@
 
-# Spring Boot API with Spring Security and Docker ![app](https://icons8.com/icon/GLDz2wTcYtlm/spring-boot)
+# Spring Boot API with Spring Security and Docker ![app](https://github.com/Sarthak-Singh-Tomar/all-icons/main/icons8-spring-boot-30.png)
 ## CRUD Operations
 
 ### Using Spring Data JPA 
